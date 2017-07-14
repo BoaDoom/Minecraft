@@ -1,17 +1,25 @@
 {
   "profiles": {
+    "b49c8f8af0e3f7fc2dd779f3b73c914e": {
+      "type": "latest-release",
+      "lastUsed": "1970-01-01T00:00:00.001Z"
+    },
+    "7250482a7344e808bba5ace271722901": {
+      "type": "latest-snapshot",
+      "lastUsed": "1970-01-01T00:00:00.000Z"
+    },
     "FTB Presents SkyFactory 3": {
       "name": "FTB Presents SkyFactory 3",
-      "gameDir": "C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
-      "lastVersionId": "forge-12.18.3.2316",
-      "javaArgs": "-Xmx3072m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US",
-      "resolution": {
-        "height": 768,
-        "width": 1024
-      },
       "type": "custom",
       "created": "2017-07-14T16:19:09.7803995Z",
-      "lastUsed": "2017-07-14T16:19:09.7803995Z"
+      "lastUsed": "2017-07-14T16:29:08.626Z",
+      "lastVersionId": "forge-12.18.3.2316",
+      "resolution": {
+        "width": 1024,
+        "height": 768
+      },
+      "gameDir": "C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
+      "javaArgs": "-Xmx3072m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
     }
   },
   "clientToken": "5e8c8f5f2331ee67e89766cc25518787",
@@ -42,10 +50,7 @@
     "keepLauncherOpen": false,
     "showGameLog": false,
     "crashAssistance": false,
-    "enableAnalytics": false,
-    "enableSnapshots": false,
-    "enableHistorical": false,
-    "enableAdvanced": false
+    "enableAnalytics": false
   },
   "analyticsToken": "f1923c3ba87e9e56b4e5a2a3518f79ca",
   "analyticsFailcount": 0
