@@ -1,0 +1,26 @@
+﻿Set run directory to C:\Users\LabAdmin\Documents\Curse\Minecraft\Install
+Native Launcher Version: 1321
+Operating System: Windows 10 Pro
+Application Hash: d026a01a83aeaec4111e8c7430ad89b21f3a30f3
+Application Data directory: C:\Users\LabAdmin\AppData\Roaming/.minecraft
+Executable Path: minecraft.exe
+App Directory dir: C:\Users\LabAdmin\Documents\Curse\Minecraft\Install
+Start dir: C:/Users/LabAdmin/Documents/Curse/Minecraft/Install
+Launcher dir: C:/Users/LabAdmin/Documents/Curse/Minecraft/Install/game
+TmpDir dir: C:/Users/LabAdmin/Documents/Curse/Minecraft/Install/tmp
+(Optional) Java Launcher hash: 
+Java Version: 1.8.0_25
+x64: 1
+LauncherConfiguration from: http://launchermeta.mojang.com/mc/launcher.json
+Downloaded config
+Native launcher is current
+Native launcher is current
+Detected previous run with new launcher, format of C:/Users/LabAdmin/Documents/Curse/Minecraft/Install/launcher_profiles.json is 2
+Using new launcher as self upgrade has been detected.
+Launcher library is up to date with hash ec064f05257ba720c432bce019329ec56417a61f
+Check to see if we can run the launcher
+Native launcher is current
+Starting launcher.dll with C:\Users\LabAdmin\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_25\bin\javaw.exe
+Found SetDllDirectoryW in kernel32.dll!
+Added C:\Users\LabAdmin\Documents\Curse\Minecraft\Install\game to DLL search path
+Running launcher!

@@ -1,0 +1,32 @@
+[0714/091910:INFO:LauncherAppBrowser.cpp(24)] Work dir is C:\Users\LabAdmin\Documents\Curse\Minecraft\Install
+
+[0714/091910:INFO:ClientHandler.cpp(182)] Creating launcher window.
+
+[0714/091910:INFO:LauncherAppRenderer.cpp(110)] Javascript bridge extended.
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Preferences / startup: Read preferences
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Preferences: Wrote preferences
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Configurations: Loading profiles
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Configurations: Loading settings
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Session: Read authDB
+
+[0714/091912:INFO:LocalVersionProvider.cpp(81)] Looking for installed versions in C:/Users\LabAdmin\Documents\Curse\Minecraft\Install\versions
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Updating server status
+
+[0714/091912:INFO:GameController.cpp(216)] Reinstancing game callbacks...
+
+[0714/091912:INFO:ClientHandler.cpp(846)] GameStarter: Previous instance(s) found
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Session: Validated token
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Preferences: Wrote preferences
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Session: Wrote authDB
+
+[0714/091912:INFO:ClientHandler.cpp(846)] Changing view to: main.news
+
