@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Fri Jul 14 09:32:30 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Sun Jul 16 20:24:09 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1776,13 +1776,13 @@ var colorpalette={
     {
       "uid": "bloodmagic:BlockDemonBricks1",
       "name": "Vengeful Stone Bricks",
-      "color": "#745656",
+      "color": "#735656",
       "alpha": 1.0,
       "meta": 3,
       "variants": [
         {
           "name": "Raw Stone Bricks",
-          "color": "#597172",
+          "color": "#597071",
           "meta": 0
         },
         {
@@ -1797,7 +1797,7 @@ var colorpalette={
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#484b64",
+          "color": "#494b65",
           "meta": 4
         }
       ]
@@ -4914,7 +4914,7 @@ var colorpalette={
       "name": "Dragon Bricks Slab",
       "color": "#92519f",
       "alpha": 1.0,
-      "meta": 4,
+      "meta": 12,
       "variants": [
         {
           "name": "Porcelain Bricks Slab",
@@ -4933,12 +4933,8 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks Slab",
-          "color": "#d0c0a4",
+          "color": "#d0c0a3",
           "meta": 11
-        },
-        {
-          "color": "#9353a1",
-          "meta": 12
         }
       ]
     },
@@ -4998,11 +4994,11 @@ var colorpalette={
       "meta": 7,
       "variants": [
         {
-          "color": "#9353a1",
+          "color": "#844692",
           "meta": 6
         },
         {
-          "color": "#844692",
+          "color": "#9353a1",
           "meta": 7
         }
       ]
@@ -5023,7 +5019,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#d0c0a4",
-          "meta": 6
+          "meta": 7
         }
       ]
     },
