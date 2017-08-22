@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Mon Aug 21 12:32:22 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Mon Aug 21 17:38:34 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1797,7 +1797,7 @@ var colorpalette={
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#484b64",
+          "color": "#484a64",
           "meta": 4
         }
       ]
@@ -4883,7 +4883,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_hard",
       "name": "Dragon Bricks",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 4,
       "variants": [
@@ -4912,13 +4912,14 @@ var colorpalette={
     {
       "uid": "ceramics:clay_slab",
       "name": "Dragon Bricks Slab",
-      "color": "#92519f",
+      "color": "#9353a1",
       "alpha": 1.0,
-      "meta": 12,
+      "meta": 4,
       "variants": [
         {
-          "color": "#9353a1",
-          "meta": 4
+          "name": "Golden Bricks Slab",
+          "color": "#d0c0a3",
+          "meta": 3
         },
         {
           "name": "Porcelain Bricks Slab",
@@ -4937,8 +4938,12 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks Slab",
-          "color": "#d0c0a3",
+          "color": "#d0c0a4",
           "meta": 11
+        },
+        {
+          "color": "#844692",
+          "meta": 12
         }
       ]
     },
