@@ -1,6 +1,6 @@
-[19:51:20] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[19:51:20] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[19:51:21] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.4.6, built with Forge 12.18.3.2185
+[11:59:41] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[11:59:41] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[11:59:42] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.4.6, built with Forge 12.18.3.2185
 Forge: 12.18.3.2316
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -15,52 +15,52 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.4
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.4.6, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.4.6, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.6, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.4.6, announceMod=true, colorPassive=#bbbbbb, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=7, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, radarVerticalDistance=16, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, cachePlayerData=1000, splashViewed=5.4.6, colorHostile=#ff0000, revealShape=Circle, cacheAnimalsData=3100, themeName=Victorian, alwaysMapSurface=false, colorVillager=#88e188, mapCaveLighting=true, mapPlants=false, renderDelay=2, renderOverlayPreEvent=true, colorPet=#0077ff, autoMapPoll=2000}
-[19:51:21] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3
-[19:51:21] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[19:51:21] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
-[19:51:21] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[19:51:32] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\icon\entity
-[19:51:32] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[19:51:32] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Victorian: C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\theme\Victorian
-[19:51:32] [Client thread/INFO] [ThemeFileHandler] Preloaded theme textures: 0
-[19:51:33] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.4.7 for Minecraft 1.10.2 on http://minecraft.curseforge.com/projects/journeymap-32274/files/2435300
-[19:52:26] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[19:52:27] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
-[19:52:27] [Client thread/INFO] [ColorManager] New color palette will be created
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/futura/controllerpurple: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/futura/controllerpurple.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/barbedwire: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/barbedwire.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/cage: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/cage.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/fenceIronTop: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/fenceIronTop.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-thingrid: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-thingrid.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-ornatesteel: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/bars: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/bars.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
-[19:52:28] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/spikes: Index: 0, Size: 0
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
-[19:52:28] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/spikes.png
-[19:52:28] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
-[19:52:28] [Client thread/ERROR] [JMLogger] Error calling blusunrize.immersiveengineering.client.models.smart.ConnModelReal.getQuads() (SUPPRESSED)
-[19:52:28] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
+[11:59:42] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3
+[11:59:42] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[11:59:42] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[11:59:42] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[11:59:55] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\icon\entity
+[11:59:55] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[11:59:55] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Victorian: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\theme\Victorian
+[11:59:55] [Client thread/INFO] [ThemeFileHandler] Preloaded theme textures: 0
+[11:59:55] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.4.7 for Minecraft 1.10.2 on http://minecraft.curseforge.com/projects/journeymap-32274/files/2435300
+[12:01:09] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[12:01:10] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[12:01:10] [Client thread/INFO] [ColorManager] New color palette will be created
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/futura/controllerpurple: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/futura/controllerpurple.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/barbedwire: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/barbedwire.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/cage: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/cage.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/fenceIronTop: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/fenceIronTop.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-thingrid: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-thingrid.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-ornatesteel: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/bars: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/bars.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[12:01:10] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/spikes: Index: 0, Size: 0
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[12:01:10] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/spikes.png
+[12:01:10] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[12:01:11] [Client thread/ERROR] [JMLogger] Error calling blusunrize.immersiveengineering.client.models.smart.ConnModelReal.getQuads() (SUPPRESSED)
+[12:01:11] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.buildQuads(IESmartObjModel.java:237)
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.getQuads(IESmartObjModel.java:210)
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.func_188616_a(IESmartObjModel.java:177)
@@ -91,12 +91,14 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.6, ra
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 
-[19:52:29] [Client thread/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 4691
-[19:52:29] [Client thread/INFO] [ColorManager] Initialized 78939 block colors from mods and resource packs in 1420ms
-[19:52:29] [Client thread/INFO] [ColorPalette] Color palette file generated with 6079 colors in 438ms for: C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
-[19:52:29] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
-[19:53:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[19:53:04] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[19:53:04] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 3422MB total, 576MB free 
-[19:53:04] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
-[20:25:22] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\nobody\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
+[12:01:11] [Client thread/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 4690
+[12:01:11] [Client thread/INFO] [ColorManager] Initialized 78939 block colors from mods and resource packs in 1379ms
+[12:01:12] [Client thread/INFO] [ColorPalette] Color palette file generated with 6078 colors in 349ms for: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
+[12:01:12] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
+[12:20:25] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[12:20:25] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
+[12:20:25] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2835MB total, 612MB free 
+[12:20:25] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[13:11:22] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:11:24] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[13:30:50] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
