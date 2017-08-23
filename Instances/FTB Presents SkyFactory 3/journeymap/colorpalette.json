@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Tue Aug 22 08:47:16 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Tue Aug 22 16:29:07 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1782,7 +1782,7 @@ var colorpalette={
       "variants": [
         {
           "name": "Raw Stone Bricks",
-          "color": "#587071",
+          "color": "#597071",
           "meta": 0
         },
         {
@@ -1797,7 +1797,7 @@ var colorpalette={
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#494b65",
+          "color": "#484b64",
           "meta": 4
         }
       ]
@@ -4883,7 +4883,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_hard",
       "name": "Dragon Bricks",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 4,
       "variants": [
@@ -4904,7 +4904,7 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks",
-          "color": "#d0c0a4",
+          "color": "#d0c0a3",
           "meta": 3
         }
       ]
@@ -4916,6 +4916,15 @@ var colorpalette={
       "alpha": 1.0,
       "meta": 12,
       "variants": [
+        {
+          "name": "Golden Bricks Slab",
+          "color": "#d0c0a3",
+          "meta": 3
+        },
+        {
+          "color": "#9353a1",
+          "meta": 4
+        },
         {
           "name": "Porcelain Bricks Slab",
           "color": "#bac1c1",
@@ -4933,7 +4942,7 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks Slab",
-          "color": "#d0c0a3",
+          "color": "#d0c0a4",
           "meta": 11
         }
       ]
@@ -4994,11 +5003,11 @@ var colorpalette={
       "meta": 7,
       "variants": [
         {
-          "color": "#844692",
-          "meta": 7
+          "color": "#9353a1",
+          "meta": 5
         },
         {
-          "color": "#9353a1",
+          "color": "#844692",
           "meta": 7
         }
       ]
@@ -5015,13 +5024,7 @@ var colorpalette={
       "name": "Golden Bricks Stairs",
       "color": "#d0c0a3",
       "alpha": 1.0,
-      "meta": 7,
-      "variants": [
-        {
-          "color": "#d0c0a4",
-          "meta": 7
-        }
-      ]
+      "meta": 7
     },
     {
       "uid": "ceramics:marine_bricks_stairs",
