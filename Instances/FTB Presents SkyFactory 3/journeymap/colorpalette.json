@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Wed Aug 23 20:06:09 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Thu Aug 24 10:47:29 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1787,17 +1787,17 @@ var colorpalette={
         },
         {
           "name": "Corrosive Stone Bricks",
-          "color": "#647a5a",
+          "color": "#647959",
           "meta": 1
         },
         {
           "name": "Destructive Stone Bricks",
-          "color": "#5d5345",
+          "color": "#5e5445",
           "meta": 2
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#484b64",
+          "color": "#494b65",
           "meta": 4
         }
       ]
@@ -4882,10 +4882,10 @@ var colorpalette={
     },
     {
       "uid": "ceramics:clay_hard",
-      "name": "Golden Bricks",
-      "color": "#d0c0a3",
+      "name": "Dragon Bricks",
+      "color": "#9353a1",
       "alpha": 1.0,
-      "meta": 3,
+      "meta": 4,
       "variants": [
         {
           "name": "Porcelain Bricks",
@@ -4903,18 +4903,18 @@ var colorpalette={
           "meta": 2
         },
         {
-          "name": "Dragon Bricks",
-          "color": "#844692",
-          "meta": 4
+          "name": "Golden Bricks",
+          "color": "#d0c0a3",
+          "meta": 3
         }
       ]
     },
     {
       "uid": "ceramics:clay_slab",
       "name": "Dragon Bricks Slab",
-      "color": "#92519f",
+      "color": "#9353a1",
       "alpha": 1.0,
-      "meta": 4,
+      "meta": 12,
       "variants": [
         {
           "name": "Porcelain Bricks Slab",
@@ -4935,10 +4935,6 @@ var colorpalette={
           "name": "Golden Bricks Slab",
           "color": "#d0c0a3",
           "meta": 11
-        },
-        {
-          "color": "#9353a1",
-          "meta": 12
         }
       ]
     },
@@ -4998,11 +4994,11 @@ var colorpalette={
       "meta": 7,
       "variants": [
         {
-          "color": "#9353a1",
-          "meta": 6
+          "color": "#844692",
+          "meta": 7
         },
         {
-          "color": "#844692",
+          "color": "#9353a1",
           "meta": 7
         }
       ]
@@ -5023,7 +5019,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#d0c0a4",
-          "meta": 6
+          "meta": 7
         }
       ]
     },
