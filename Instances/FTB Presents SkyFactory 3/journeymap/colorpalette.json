@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Thu Aug 24 10:47:29 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Fri Aug 25 10:50:44 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1787,7 +1787,7 @@ var colorpalette={
         },
         {
           "name": "Corrosive Stone Bricks",
-          "color": "#647959",
+          "color": "#647a5a",
           "meta": 1
         },
         {
@@ -4883,7 +4883,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_hard",
       "name": "Dragon Bricks",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 4,
       "variants": [
@@ -4912,10 +4912,14 @@ var colorpalette={
     {
       "uid": "ceramics:clay_slab",
       "name": "Dragon Bricks Slab",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 12,
       "variants": [
+        {
+          "color": "#844692",
+          "meta": 4
+        },
         {
           "name": "Porcelain Bricks Slab",
           "color": "#bac1c1",

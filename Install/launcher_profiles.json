@@ -1,18 +1,18 @@
 {
   "profiles": {
-    "f53cd3fe8b880dd2f69c4d332ede9136": {
+    "2bcac05c954a6d06b3f69a57cdf02c8e": {
       "type": "latest-release",
       "lastUsed": "1970-01-01T00:00:00.001Z"
     },
-    "7eb9d8474ee076da06c45a7a9448faa0": {
+    "b761d5a26a2d4a107a309a450e0254a8": {
       "type": "latest-snapshot",
       "lastUsed": "1970-01-01T00:00:00.000Z"
     },
     "FTB Presents SkyFactory 3": {
       "name": "FTB Presents SkyFactory 3",
       "type": "custom",
-      "created": "2017-08-24T14:15:15.0127648Z",
-      "lastUsed": "2017-08-24T17:43:48.975Z",
+      "created": "2017-08-25T17:47:02.4236154Z",
+      "lastUsed": "2017-08-25T17:47:06.571Z",
       "lastVersionId": "forge-12.18.3.2316",
       "resolution": {
         "width": 1024,
@@ -34,6 +34,10 @@
       }
     }
   },
+  "selectedUser": {
+    "account": "1536174f1ef025a691e03eddfdf03a45",
+    "profile": "fdf6bfc1fc304862817e09d1045791e1"
+  },
   "launcherVersion": {
     "name": "2.0.934",
     "format": 20,
@@ -49,9 +53,5 @@
     "enableAnalytics": false
   },
   "analyticsToken": "f1923c3ba87e9e56b4e5a2a3518f79ca",
-  "analyticsFailcount": 0,
-  "selectedUser": {
-    "account": "1536174f1ef025a691e03eddfdf03a45",
-    "profile": "fdf6bfc1fc304862817e09d1045791e1"
-  }
+  "analyticsFailcount": 0
 }
