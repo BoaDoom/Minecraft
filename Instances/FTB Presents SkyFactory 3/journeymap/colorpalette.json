@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Mon Aug 28 07:38:09 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Tue Aug 29 16:22:42 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "/:0.3.5, Actually Additions:1.10.2-r105, ActuallyComputers:1.0.0, Advanced Generators:0.9.20.23, AngelRing 2 Bauble:0.2.4_1.10.2-d71eb9e, AppleCore:2.1.2, AppleSkin:1.0.5, AutoPackager:1.6.4, AutoRegLib:1.0-2, B.A.S.E:1.10.2-1.4.0, BD Lib:1.12.4.24, Baconators:3.0.6, Baubles:1.3.11, Bed Bugs:@VERSION@, Better Builder\u0027s Wands:0.11.1, BetterThanBunnies:1.10.2-1.1.0, BiomeTweaker:2.3.239, BlockDispenser:1.0, Blood Magic: Alchemical Wizardry:1.10.2-2.1.10-79, Bookshelf:1.4.4.347, Botania:r1.9-341, Brandon\u0027s Core:2.1.8, CT-GUI:1.0.0, Ceramics:1.10.2-1.1.6b, Chameleon:1.10.2-2.3.0, Chance Cubes:1.10.2-3.0.1.194, Chest Transporter:2.5.17, ChickenChunks:2.2.0.52, Chickens:4.3.2, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.14, Client Tweaks:1.1.16, Clipboard:@VERSION@, Clumps:1.0.5, CodeChicken Core:2.4.1.102, CodeChicken Lib:2.5.9.267, Colossal Chests:1.6.0, CommonCapabilities:1.3.3, Controlling:1.0.4, Cooking for Blockheads:4.2.43, CraftTweaker JEI Support:1.0.1, Custom Main Menu:2.0.5, Cyclops Core:0.10.5, Dark Utilities:1.1.8.finalrc2, Decocraft:2.4.2, Default Options:6.1.5, Dimensional Cake:0.0.1, Draconic Evolution:2.1.0, Dragon Mounts:r46-1.10.2, Drawers \u0026 Bits:0.36, ET Lunar:1.10.2-0.10.6a, Elevator Mod:1.3.0, Ender IO:1.10.2-3.1.192, EnderCore:1.10.2-0.4.1.66-beta, EnderStorage:2.2.1.106, Engineers Workshop:1.0, Environmental Tech:1.10.2-0.10.6b, Ex Compressum:2.0.97, Ex Nihilo Adscensio:0.1.5, Experience Rings:1.3.0, Extra Bit Manipulation:1.10.2-2.3.4, Extra Utilities 2:1.0, Extreme Reactors:1.10.2-0.4.5.29, FTBLib:0.0.0, FTBUtilities:0.0.0, Fairy Lights:2.1.1, Farming for Blockheads:1.1.15, Fence Overhaul:1.2.1, Flat Colored Blocks:mc1.10-v4.4, FluxNetworks:1.2.4, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forge Mod Loader:8.0.99.99, Fullscreen Windowed:1.5.0, Funnels:1.1.2, Garden of Glass:sqrt(-1), Get Ya\u0027 Tanks Here:2.0.0.2, GooglyEyes:6.0.0, Gravestone:1.5.12, Grue:1.3.5, Guide-API:@VERSION@, Hammer Core:1.6.9, Hatchery:0.3.17, Headcrumbs:2.0.2, Hopper Ducts:1.4.8, HydroGel:0.9, I Can See Everything:1.1.0.0, Immersive Engineering:0.10-60, InGame Info XML:2.8.1.89, InitialInventory:1.0.1, Integrated Dynamics:0.7.3, Integrated Tunnels:1.2.1, Iron Backpacks:1.10.2-2.2.27, Iron Chest:1.10.2-7.0.15.804, It\u0027s Raining Food:1.0.2, ItsBecauseUHasNoGoodSpawn:1.0.5, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.420, KleeSlabs:3.3.5, LLibrary:1.7.6, Literal Ascension:1.10.2-1.0.2.2, Long Fall Boots:1.0, Loot Bags:2.3.9, LunatriusCore:1.1.2.38, MCMultiPart:1.4.0, MTLib:@VERSION@, Mantle:1.10.2-1.1.5.205, Mercurius:1.0.4, MineMenu:1.4.5, MineTweaker 3:3.0.26, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2316, MiniCoal:1.1.0, Missing Pieces:4.3.0, MoarSigns:4.2.3.9, Mod Tweaker:2.0.12, ModPack Basic Tools:1.1.3, ModPack Utilities:1.2.9, More Chickens:1.1.4, More Shearables:1.1.2, More Shears:1.0.5, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, Mystical Agriculture:1.5.5, Natura:1.10.2-4.1.0.65, Neat:1.3-12, Nice:0.1.0, Not Enough Items:2.1.3.220, Not Enough Wands:1.5.5, OpenComputers (Core):1.6.2.7, OpenComputers:1.6.2.7, OreExcavation:1.2.93, PTRModelLib:1.0.0, Packing Tape:0.6.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Platforms:1.2.10, Psi:r1.0-42, QuantumStorage:3.3.4, RFTools Control:1.6.8, RFTools Dimensions:5.02, RFTools:6.01, Random Things:3.7.7.1, Ranged Pumps:0.3, RebornCore:2.13.6.142, RebornStorage:1.0.0, Redstone Paste:1.7.4, Refined Storage:1.2.26, Reliquia:0.0.7, Resource Loader:1.5.1, Roots:0.208, Scanner:1.4.1, ShadowMC:3.6.1, Shadowfacts\u0027 Forgelin:1.4.2, Shear Madness:1.10.2, ShetiPhian-Core:3.3.9, Simple Achievements:MC1.9.4-1.2.2-28, Simple Barrels:1.26e, Simple Corn:2.2.0, Simple Generators:1.10.2-0.10.6a, Simple Inventory sorting:0.11.0+47, SimpleLabels:0.0.1, Simply Jetpacks 2:2.1.1.47, Snad:1.10.2-1.6.09.20a, Solar Flux Reborn:2.17r, SonarCore:3.2.7, Steve\u0027s Carts 2:2.2.0.86, Storage Drawers:1.10.2-3.7.9, Super Circuit Maker:1.0.4, The Beneath:1.2.0, Tinkers Tool Leveling:1.10.2-1.0.1.DEV.f5def58, Tinkers\u0027 Construct:1.10.2-2.6.5.10, Tiny Progressions:1.1.0, TorchMaster:1.4.0.32, Translocator:2.1.4.55, Twerk-Sim 2K16:1.0.3, Twitchcrumbs:2.0.4, UniDict:1.10.2-2.9, Valkyrie Lib:1.10.2-0.10.6, Waddles:0.5.2, Waila:1.8.17-B31_1.10.2, WanionLib:1.10.2-1.3, What Are We Looking At:2.3.2.215, Wither Crumbs:@version@, Wooden Shears:@MAJOR@.@MINOR@.@REVIS@.@BUILD@, YUNoMakeGoodMap:1.10.2-6.1.0.26, Zero CORE:1.10.2-0.1.0.6, apple_shields:0.1.7, ccl-entityhook:1.0, mob_grinding_utils:0.1.8.21, reborncore-MCMultiPart:2.13.6.142, voidcup:1.0, |:0.3.5, ‽:0.3.5",
+  "modNames": "/:0.3.5, Actually Additions:1.10.2-r105, ActuallyComputers:1.0.0, Advanced Generators:0.9.20.23, AngelRing 2 Bauble:0.2.4_1.10.2-d71eb9e, AppleCore:2.1.2, AppleSkin:1.0.5, AutoPackager:1.6.4, AutoRegLib:1.0-2, B.A.S.E:1.10.2-1.4.0, BD Lib:1.12.4.24, Baconators:3.0.6, Baubles:1.3.11, Bed Bugs:@VERSION@, Better Builder\u0027s Wands:0.11.1, BetterThanBunnies:1.10.2-1.1.0, BiomeTweaker:2.3.239, BlockDispenser:1.0, Blood Magic: Alchemical Wizardry:1.10.2-2.1.10-79, Bookshelf:1.4.4.347, Botania:r1.9-341, Brandon\u0027s Core:2.1.11, CT-GUI:1.0.0, Ceramics:1.10.2-1.1.6b, Chameleon:1.10.2-2.3.0, Chance Cubes:1.10.2-3.0.1.194, Chest Transporter:2.5.17, ChickenChunks:2.2.0.52, Chickens:4.3.2, Chisel:MC1.10.2-0.0.10.22, Chisels \u0026 Bits:12.14, Client Tweaks:1.1.16, Clipboard:@VERSION@, Clumps:1.0.5, CodeChicken Core:2.4.1.102, CodeChicken Lib:2.5.9.267, Colossal Chests:1.6.0, CommonCapabilities:1.3.3, Controlling:1.0.4, Cooking for Blockheads:4.2.43, CraftTweaker JEI Support:1.0.1, Custom Main Menu:2.0.5, Cyclops Core:0.10.5, Dark Utilities:1.1.8.finalrc2, Decocraft:2.4.2, Default Options:6.1.5, Dimensional Cake:0.0.1, Draconic Evolution:2.1.5, Dragon Mounts:r46-1.10.2, Drawers \u0026 Bits:0.36, ET Lunar:1.10.2-0.10.6a, Elevator Mod:1.3.0, Ender IO:1.10.2-3.1.192, EnderCore:1.10.2-0.4.1.66-beta, EnderStorage:2.2.1.106, Engineers Workshop:1.0, Environmental Tech:1.10.2-0.10.6b, Ex Compressum:2.0.97, Ex Nihilo Adscensio:0.1.5, Experience Rings:1.3.0, Extra Bit Manipulation:1.10.2-2.3.4, Extra Utilities 2:1.0, Extreme Reactors:1.10.2-0.4.5.29, FTBLib:0.0.0, FTBUtilities:0.0.0, Fairy Lights:2.1.1, Farming for Blockheads:1.1.15, Fence Overhaul:1.2.1, Flat Colored Blocks:mc1.10-v4.4, FluxNetworks:1.2.4, FoamFix:@VERSION@, FoamFixCore:7.7.4, Forge Mod Loader:8.0.99.99, Fullscreen Windowed:1.5.0, Funnels:1.1.2, Garden of Glass:sqrt(-1), Get Ya\u0027 Tanks Here:2.0.0.2, GooglyEyes:6.0.0, Gravestone:1.5.12, Grue:1.3.5, Guide-API:@VERSION@, Hammer Core:1.6.9, Hatchery:0.3.17, Headcrumbs:2.0.2, Hopper Ducts:1.4.8, HydroGel:0.9, I Can See Everything:1.1.0.0, Immersive Engineering:0.10-60, InGame Info XML:2.8.1.89, InitialInventory:1.0.1, Integrated Dynamics:0.7.3, Integrated Tunnels:1.2.1, Iron Backpacks:1.10.2-2.2.27, Iron Chest:1.10.2-7.0.15.804, It\u0027s Raining Food:1.0.2, ItsBecauseUHasNoGoodSpawn:1.0.5, JourneyMap:1.10.2-5.4.6, Just Enough Items:3.14.7.420, KleeSlabs:3.3.5, LLibrary:1.7.6, Literal Ascension:1.10.2-1.0.2.2, Long Fall Boots:1.0, Loot Bags:2.3.9, LunatriusCore:1.1.2.38, MCMultiPart:1.4.0, MTLib:@VERSION@, Mantle:1.10.2-1.1.5.205, Mercurius:1.0.4, MineMenu:1.4.5, MineTweaker 3:3.0.26, Minecraft Coder Pack:9.19, Minecraft Forge:12.18.3.2316, MiniCoal:1.1.0, Missing Pieces:4.3.0, MoarSigns:4.2.3.9, Mod Tweaker:2.0.12, ModPack Basic Tools:1.1.3, ModPack Utilities:1.2.9, More Chickens:1.1.4, More Shearables:1.1.2, More Shears:1.0.5, Morpheus:1.10.2-3.1.13, Mouse Tweaks:2.8, Mystical Agriculture:1.5.5, Natura:1.10.2-4.1.0.65, Neat:1.3-12, Nice:0.1.0, Not Enough Items:2.1.3.220, Not Enough Wands:1.5.5, OpenComputers (Core):1.6.2.7, OpenComputers:1.6.2.7, OreExcavation:1.2.93, PTRModelLib:1.0.0, Packing Tape:0.6.0, Pam\u0027s HarvestCraft:1.9.4-1.10.2g, Platforms:1.2.10, Psi:r1.0-42, QuantumStorage:3.3.4, RFTools Control:1.6.8, RFTools Dimensions:5.02, RFTools:6.01, Random Things:3.7.7.1, Ranged Pumps:0.3, RebornCore:2.13.6.142, RebornStorage:1.0.0, Redstone Paste:1.7.4, Refined Storage:1.2.26, Reliquia:0.0.7, Resource Loader:1.5.1, Roots:0.208, Scanner:1.4.1, ShadowMC:3.6.1, Shadowfacts\u0027 Forgelin:1.4.2, Shear Madness:1.10.2, ShetiPhian-Core:3.3.9, Simple Achievements:MC1.9.4-1.2.2-28, Simple Barrels:1.26e, Simple Corn:2.2.0, Simple Generators:1.10.2-0.10.6a, Simple Inventory sorting:0.11.0+47, SimpleLabels:0.0.1, Simply Jetpacks 2:2.1.1.47, Snad:1.10.2-1.6.09.20a, Solar Flux Reborn:2.17r, SonarCore:3.2.7, Steve\u0027s Carts 2:2.2.0.86, Storage Drawers:1.10.2-3.7.9, Super Circuit Maker:1.0.4, The Beneath:1.2.0, Tinkers Tool Leveling:1.10.2-1.0.1.DEV.f5def58, Tinkers\u0027 Construct:1.10.2-2.6.5.10, Tiny Progressions:1.1.0, TorchMaster:1.4.0.32, Translocator:2.1.4.55, Twerk-Sim 2K16:1.0.3, Twitchcrumbs:2.0.4, UniDict:1.10.2-2.9, Valkyrie Lib:1.10.2-0.10.6, Waddles:0.5.2, Waila:1.8.17-B31_1.10.2, WanionLib:1.10.2-1.3, What Are We Looking At:2.3.2.215, Wither Crumbs:@version@, Wooden Shears:@MAJOR@.@MINOR@.@REVIS@.@BUILD@, YUNoMakeGoodMap:1.10.2-6.1.0.26, Zero CORE:1.10.2-0.1.0.6, apple_shields:0.1.7, ccl-entityhook:1.0, mob_grinding_utils:0.1.8.21, reborncore-MCMultiPart:2.13.6.142, voidcup:1.0, |:0.3.5, ‽:0.3.5",
   "blockColors": [
     {
       "uid": "actuallyadditions:blockAtomicReconstructor",
@@ -1782,7 +1782,7 @@ var colorpalette={
       "variants": [
         {
           "name": "Raw Stone Bricks",
-          "color": "#597172",
+          "color": "#597071",
           "meta": 0
         },
         {
@@ -1797,7 +1797,7 @@ var colorpalette={
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#484a64",
+          "color": "#494b65",
           "meta": 4
         }
       ]
@@ -4883,7 +4883,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_hard",
       "name": "Dragon Bricks",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 4,
       "variants": [
@@ -4914,8 +4914,13 @@ var colorpalette={
       "name": "Dragon Bricks Slab",
       "color": "#92519f",
       "alpha": 1.0,
-      "meta": 12,
+      "meta": 4,
       "variants": [
+        {
+          "name": "Golden Bricks Slab",
+          "color": "#d0c0a3",
+          "meta": 3
+        },
         {
           "name": "Porcelain Bricks Slab",
           "color": "#bac1c1",
@@ -4933,8 +4938,12 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks Slab",
-          "color": "#d0c0a3",
+          "color": "#d0c0a4",
           "meta": 11
+        },
+        {
+          "color": "#9353a1",
+          "meta": 12
         }
       ]
     },
