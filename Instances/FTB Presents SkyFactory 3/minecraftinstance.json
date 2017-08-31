@@ -18,7 +18,7 @@
   "isUnlocked": false,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-29T23:19:35.3064377Z",
+  "lastPlayed": "2017-08-31T21:17:56.470198Z",
   "manifest": {
     "minecraft": {
       "version": "1.10.2",
@@ -9000,7 +9000,7 @@
       "dateInstalled": "2017-07-14T14:11:00.0072254Z",
       "dateUpdated": "2017-07-14T14:11:00.0132481Z",
       "dateLastUpdateAttempted": "2017-07-14T14:11:00.0132481Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
