@@ -1,31 +1,31 @@
 {
   "profiles": {
-    "9b8f9e0ad71bfacd4ef8222f664e6fab": {
+    "8bb6e76b8b232d30feece58ebf234566": {
       "type": "latest-release",
       "lastUsed": "1970-01-01T00:00:00.001Z"
     },
-    "936f859fcd9981068315dbe59f95c5a2": {
+    "2449c0dd94f3c4113cb4926e37b54b7b": {
       "type": "latest-snapshot",
       "lastUsed": "1970-01-01T00:00:00.000Z"
     },
     "FTB Presents SkyFactory 3": {
       "name": "FTB Presents SkyFactory 3",
       "type": "custom",
-      "created": "2017-09-04T21:07:45.9532081Z",
-      "lastUsed": "2017-09-04T21:51:26.074Z",
+      "created": "2017-09-05T20:19:30.3015571Z",
+      "lastUsed": "2017-09-05T20:19:34.156Z",
       "lastVersionId": "forge-12.18.3.2316",
       "resolution": {
         "width": 1024,
         "height": 768
       },
-      "gameDir": "C:\\Users\\nobody\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
-      "javaArgs": "-Xmx4096m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\nobody\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
+      "gameDir": "C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
+      "javaArgs": "-Xmx3072m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
     }
   },
   "clientToken": "5e8c8f5f2331ee67e89766cc25518787",
   "authenticationDatabase": {
     "1536174f1ef025a691e03eddfdf03a45": {
-      "accessToken": "dc396b633a794ce387bda74dc8d74ba1",
+      "accessToken": "e9af567ca9294245b47df60eeb3d93fa",
       "username": "boadoom@gmail.com",
       "profiles": {
         "fdf6bfc1fc304862817e09d1045791e1": {
