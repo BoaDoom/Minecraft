@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Tue Sep 05 13:22:57 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Tue Sep 05 19:47:35 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1797,7 +1797,7 @@ var colorpalette={
         },
         {
           "name": "Steadfast Stone Bricks",
-          "color": "#494b65",
+          "color": "#484a64",
           "meta": 4
         }
       ]
@@ -4917,10 +4917,6 @@ var colorpalette={
       "meta": 12,
       "variants": [
         {
-          "color": "#9353a1",
-          "meta": 4
-        },
-        {
           "name": "Porcelain Bricks Slab",
           "color": "#bac1c1",
           "meta": 8
@@ -4998,8 +4994,12 @@ var colorpalette={
       "meta": 7,
       "variants": [
         {
+          "color": "#844692",
+          "meta": 7
+        },
+        {
           "color": "#9353a1",
-          "meta": 6
+          "meta": 7
         }
       ]
     },
