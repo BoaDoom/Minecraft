@@ -1,6 +1,6 @@
-[12:07:34] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[12:07:34] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[12:07:34] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.4.6, built with Forge 12.18.3.2185
+[14:58:26] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[14:58:26] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[14:58:27] [Client thread/INFO] [?] Version: JourneyMap 1.10.2-5.4.6, built with Forge 12.18.3.2185
 Forge: 12.18.3.2316
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
 Unlimited Features: 
@@ -11,56 +11,56 @@ Unlimited Features:
 	MapCaves : singleplayer = true , multiplayer = true
 MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.4.6, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Circle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.4.6, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
-FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.4.6, mobDisplay=Small Dots, zoomLevel=3, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.4.6, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.4.6, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.4.6, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.6, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=5.4.6, announceMod=true, colorPassive=#bbbbbb, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=7, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, radarVerticalDistance=16, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, cachePlayerData=1000, splashViewed=5.4.6, colorHostile=#ff0000, revealShape=Circle, cacheAnimalsData=3100, themeName=Victorian, alwaysMapSurface=false, colorVillager=#88e188, mapCaveLighting=true, mapPlants=false, renderDelay=2, renderOverlayPreEvent=true, colorPet=#0077ff, autoMapPoll=2000}
-[12:07:34] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3
-[12:07:34] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[12:07:34] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
-[12:07:34] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[12:07:50] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\icon\entity
-[12:07:50] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[12:07:50] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Victorian: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\theme\Victorian
-[12:07:50] [Client thread/INFO] [ThemeFileHandler] Preloaded theme textures: 0
-[12:07:51] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.4.7 for Minecraft 1.10.2 on http://minecraft.curseforge.com/projects/journeymap-32274/files/2435300
-[12:09:10] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[12:09:11] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
-[12:09:11] [Client thread/INFO] [ColorManager] New color palette will be created
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/futura/controllerpurple: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/futura/controllerpurple.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/barbedwire: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/barbedwire.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/cage: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/cage.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/fenceIronTop: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/fenceIronTop.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-thingrid: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-thingrid.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-ornatesteel: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/bars: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/bars.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
-[12:09:11] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/spikes: Index: 0, Size: 0
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
-[12:09:11] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/spikes.png
-[12:09:11] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
-[12:09:11] [Client thread/ERROR] [JMLogger] Error calling blusunrize.immersiveengineering.client.models.smart.ConnModelReal.getQuads() (SUPPRESSED)
-[12:09:11] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
+[14:58:27] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3
+[14:58:27] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[14:58:27] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[14:58:27] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[14:58:42] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Default: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\icon\entity
+[14:58:42] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[14:58:42] [Client thread/ERROR] [FileHandler] Couldn't locate icons for Victorian: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB%20Presents%20SkyFactory%203\mods\journeymap-1.10.2-5.4.6.jar\assets\journeymap\theme\Victorian
+[14:58:42] [Client thread/INFO] [ThemeFileHandler] Preloaded theme textures: 0
+[14:58:42] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.4.7 for Minecraft 1.10.2 on http://minecraft.curseforge.com/projects/journeymap-32274/files/2435300
+[14:59:54] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[14:59:55] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[14:59:55] [Client thread/INFO] [ColorManager] New color palette will be created
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/futura/controllerpurple: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/futura/controllerpurple.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:futura:chisel:futura[variation=4]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/barbedwire: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/barbedwire.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=1]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/cage: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/cage.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=2]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/fenceIronTop: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/fenceIronTop.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=3]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-thingrid: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-thingrid.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=5]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/terrain-glass-ornatesteel: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/terrain-glass-ornatesteel.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=6]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/bars: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/bars.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=7]] ()
+[14:59:56] [Client thread/ERROR] [ColorHelper] ColorHelper.getColorForIcon(): Unable to use frame data for chisel:blocks/ironpane/spikes: Index: 0, Size: 0
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=frameTextureData): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[14:59:56] [Client thread/WARN] [TextureCache] Image not found: chisel:textures/blocks/ironpane/spikes.png
+[14:59:56] [Client thread/WARN] [ColorHelper] ColorHelper.setBlockColor(pass=resourceLocation): Null/empty texture for BlockMD [chisel:ironpane:chisel:ironpane[variation=8]] ()
+[14:59:56] [Client thread/ERROR] [JMLogger] Error calling blusunrize.immersiveengineering.client.models.smart.ConnModelReal.getQuads() (SUPPRESSED)
+[14:59:56] [Client thread/ERROR] [JMLogger] java.lang.NullPointerException
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.buildQuads(IESmartObjModel.java:237)
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.getQuads(IESmartObjModel.java:210)
 	at blusunrize.immersiveengineering.client.models.IESmartObjModel.func_188616_a(IESmartObjModel.java:177)
@@ -91,11 +91,11 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.6, ra
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 
-[12:09:12] [Client thread/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 4690
-[12:09:12] [Client thread/INFO] [ColorManager] Initialized 78939 block colors from mods and resource packs in 1692ms
-[12:09:13] [Client thread/INFO] [ColorPalette] Color palette file generated with 6080 colors in 751ms for: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
-[12:09:13] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
-[12:10:26] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+[14:59:56] [Client thread/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 4690
+[14:59:56] [Client thread/INFO] [ColorManager] Initialized 78939 block colors from mods and resource packs in 1168ms
+[14:59:57] [Client thread/INFO] [ColorPalette] Color palette file generated with 6079 colors in 333ms for: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
+[14:59:57] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\colorpalette.json
+[15:00:55] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2201)
 	at com.google.common.cache.LocalCache.get(LocalCache.java:3934)
 	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938)
@@ -127,7 +127,7 @@ Caused by: java.lang.NullPointerException
 	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195)
 	... 15 more
 
-[12:10:26] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
+[15:00:55] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
 java.lang.NullPointerException
 	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.10.2-5.4.6]
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1342_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
@@ -139,96 +139,16 @@ java.lang.NullPointerException
 	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:149) [bzl.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
-[12:10:46] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:10:47] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:10:47] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2912MB total, 871MB free 
-[12:10:47] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
-[12:17:58] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:18:04] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:18:05] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:18:05] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM2. Memory: 2584MB total, 257MB free 
-[12:18:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM2
-[12:18:17] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:18:17] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:18:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2649MB total, 249MB free 
-[12:18:44] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:18:45] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:18:48] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:18:48] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3. Memory: 2658MB total, 586MB free 
-[12:23:51] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3
-[12:23:57] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:23:57] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:23:57] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2854MB total, 395MB free 
-[12:24:16] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:24:19] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:24:20] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:24:20] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3. Memory: 2831MB total, 294MB free 
-[12:25:42] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3
-[12:25:51] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:25:54] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:25:54] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2637MB total, 579MB free 
-[12:26:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:26:15] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:26:15] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:26:15] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3. Memory: 2606MB total, 465MB free 
-[12:27:43] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3
-[12:27:48] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:27:48] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:27:48] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2640MB total, 254MB free 
-[12:28:17] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:28:20] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:28:20] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:28:20] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3. Memory: 2442MB total, 47MB free 
-[12:28:51] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM3
-[12:28:59] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:28:59] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:28:59] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2442MB total, 80MB free 
-[12:29:57] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
-[12:30:14] [Server thread/ERROR] [DataCache] ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2201)
-	at com.google.common.cache.LocalCache.get(LocalCache.java:3934)
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938)
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821)
-	at journeymap.client.data.DataCache.getPlayer(DataCache.java:255)
-	at journeymap.client.data.DataCache.getPlayer(DataCache.java:129)
-	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1342_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185)
-	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:313)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:730)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613)
-	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:149)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471)
-	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.NullPointerException
-	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:213)
-	at com.google.common.cache.LocalCache.get(LocalCache.java:3933)
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938)
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821)
-	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827)
-	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:380)
-	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
-	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
-	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524)
-	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317)
-	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280)
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195)
-	... 15 more
-
-[12:30:14] [Server thread/ERROR] [WorldEventHandler] Error handling WorldEvent.Unload
-java.lang.NullPointerException
-	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.10.2-5.4.6]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1342_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
-	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185) [EventBus.class:?]
-	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:313) [DimensionManager.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:730) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:613) [MinecraftServer.class:?]
-	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:149) [bzl.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:471) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
-[12:30:29] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
-[12:30:31] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
-[12:30:31] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2519MB total, 351MB free 
-[12:31:03] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
+[15:01:12] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:01:13] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
+[15:01:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2927MB total, 878MB free 
+[15:01:13] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[15:01:27] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
+[15:01:28] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:01:29] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
+[15:01:29] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM8. Memory: 2916MB total, 721MB free 
+[15:06:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM8
+[15:06:21] [Client thread/INFO] [TopoRenderer] Loading journeymap.topo.config
+[15:06:21] [Client thread/INFO] [WaypointStore] Loaded 8 waypoints from C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\waypoints
+[15:06:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0. Memory: 2950MB total, 522MB free 
+[15:08:31] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\LabAdmin\Documents\Curse\Minecraft\Instances\FTB Presents SkyFactory 3\journeymap\data\sp\The_World\DIM0
