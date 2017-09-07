@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Wed Sep 06 19:11:17 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Thu Sep 07 14:58:48 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1776,7 +1776,7 @@ var colorpalette={
     {
       "uid": "bloodmagic:BlockDemonBricks1",
       "name": "Vengeful Stone Bricks",
-      "color": "#745656",
+      "color": "#735656",
       "alpha": 1.0,
       "meta": 3,
       "variants": [
@@ -1787,7 +1787,7 @@ var colorpalette={
         },
         {
           "name": "Corrosive Stone Bricks",
-          "color": "#647959",
+          "color": "#647a5a",
           "meta": 1
         },
         {
@@ -4911,16 +4911,11 @@ var colorpalette={
     },
     {
       "uid": "ceramics:clay_slab",
-      "name": "Dragon Bricks Slab",
-      "color": "#92519f",
+      "name": "Golden Bricks Slab",
+      "color": "#d0c0a3",
       "alpha": 1.0,
-      "meta": 12,
+      "meta": 11,
       "variants": [
-        {
-          "name": "Golden Bricks Slab",
-          "color": "#d0c0a4",
-          "meta": 3
-        },
         {
           "name": "Porcelain Bricks Slab",
           "color": "#bac1c1",
@@ -4937,9 +4932,9 @@ var colorpalette={
           "meta": 10
         },
         {
-          "name": "Golden Bricks Slab",
-          "color": "#d0c0a3",
-          "meta": 11
+          "name": "Dragon Bricks Slab",
+          "color": "#844692",
+          "meta": 12
         }
       ]
     },
@@ -4996,11 +4991,11 @@ var colorpalette={
       "name": "Dragon Bricks Stairs",
       "color": "#92519f",
       "alpha": 1.0,
-      "meta": 6,
+      "meta": 7,
       "variants": [
         {
           "color": "#844692",
-          "meta": 7
+          "meta": 5
         },
         {
           "color": "#9353a1",
@@ -5024,7 +5019,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#d0c0a4",
-          "meta": 6
+          "meta": 7
         }
       ]
     },

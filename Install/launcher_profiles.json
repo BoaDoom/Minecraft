@@ -1,31 +1,31 @@
 {
   "profiles": {
-    "5c350e1a6e31c4fed1859e6794b1e7d4": {
+    "65c7357b2f7ae84d05cad62484ffac8a": {
       "type": "latest-release",
       "lastUsed": "1970-01-01T00:00:00.001Z"
     },
-    "2be85b0e306bd3aa5efae0a0edf6072c": {
+    "978ad68542aff68497293fc23c9af1e0": {
       "type": "latest-snapshot",
       "lastUsed": "1970-01-01T00:00:00.000Z"
     },
     "FTB Presents SkyFactory 3": {
       "name": "FTB Presents SkyFactory 3",
       "type": "custom",
-      "created": "2017-09-07T01:11:08.0411131Z",
-      "lastUsed": "2017-09-07T02:08:15.529Z",
+      "created": "2017-09-07T21:55:14.4651829Z",
+      "lastUsed": "2017-09-07T21:55:31.487Z",
       "lastVersionId": "forge-12.18.3.2316",
       "resolution": {
         "width": 1024,
         "height": 768
       },
-      "gameDir": "C:\\Users\\nobody\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
-      "javaArgs": "-Xmx4096m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\nobody\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
+      "gameDir": "C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\\",
+      "javaArgs": "-Xmx3072m -Xms256m -XX:PermSize=256m -Dminecraft.applet.TargetDirectory=\"C:\\Users\\LabAdmin\\Documents\\Curse\\Minecraft\\Instances\\FTB Presents SkyFactory 3\" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US"
     }
   },
   "clientToken": "5e8c8f5f2331ee67e89766cc25518787",
   "authenticationDatabase": {
     "1536174f1ef025a691e03eddfdf03a45": {
-      "accessToken": "8a67780f7d1944b7b828a321dbc31886",
+      "accessToken": "2fec9317de964ea7b0c281e5ecfe27bd",
       "username": "boadoom@gmail.com",
       "profiles": {
         "fdf6bfc1fc304862817e09d1045791e1": {
@@ -33,6 +33,10 @@
         }
       }
     }
+  },
+  "selectedUser": {
+    "account": "1536174f1ef025a691e03eddfdf03a45",
+    "profile": "fdf6bfc1fc304862817e09d1045791e1"
   },
   "launcherVersion": {
     "name": "2.0.934",
@@ -49,9 +53,5 @@
     "enableAnalytics": false
   },
   "analyticsToken": "f1923c3ba87e9e56b4e5a2a3518f79ca",
-  "analyticsFailcount": 0,
-  "selectedUser": {
-    "account": "1536174f1ef025a691e03eddfdf03a45",
-    "profile": "fdf6bfc1fc304862817e09d1045791e1"
-  }
+  "analyticsFailcount": 0
 }
