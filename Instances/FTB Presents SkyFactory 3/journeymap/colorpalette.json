@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Wed Sep 06 14:59:56 PDT 2017",
+  "generated": "Generated using JourneyMap 1.10.2-5.4.6 for 1.10.2 on Wed Sep 06 19:11:17 PDT 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -1787,7 +1787,7 @@ var colorpalette={
         },
         {
           "name": "Corrosive Stone Bricks",
-          "color": "#647a5a",
+          "color": "#647959",
           "meta": 1
         },
         {
@@ -4883,7 +4883,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_hard",
       "name": "Dragon Bricks",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 4,
       "variants": [
@@ -4904,7 +4904,7 @@ var colorpalette={
         },
         {
           "name": "Golden Bricks",
-          "color": "#d0c0a4",
+          "color": "#d0c0a3",
           "meta": 3
         }
       ]
@@ -4912,7 +4912,7 @@ var colorpalette={
     {
       "uid": "ceramics:clay_slab",
       "name": "Dragon Bricks Slab",
-      "color": "#9353a1",
+      "color": "#92519f",
       "alpha": 1.0,
       "meta": 12,
       "variants": [
@@ -4996,7 +4996,7 @@ var colorpalette={
       "name": "Dragon Bricks Stairs",
       "color": "#92519f",
       "alpha": 1.0,
-      "meta": 7,
+      "meta": 6,
       "variants": [
         {
           "color": "#844692",
@@ -5024,7 +5024,7 @@ var colorpalette={
       "variants": [
         {
           "color": "#d0c0a4",
-          "meta": 7
+          "meta": 6
         }
       ]
     },
